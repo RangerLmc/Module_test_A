@@ -1,0 +1,22 @@
+{
+  "name": "Module_test_A",
+  "version": "0.1.0",
+  "summary": "A short description of Module_test_A.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RangerLmc/Module_test_A",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RangerLmc": "1030774961@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RangerLmc/Module_test_A.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Module_test_A/Classes/**/*"
+}
